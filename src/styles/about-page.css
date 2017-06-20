@@ -1,0 +1,10 @@
+.alt-header {
+  color: green;
+}
+
+.contentArea{
+	margin:100px;
+	height:300px;
+	border: 2px solid #376EA7;
+	padding: 80px;
+}
